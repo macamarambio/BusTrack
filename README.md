@@ -70,6 +70,17 @@ Estudiante: Antonia Carrasco
 <img src="https://image.ibb.co/fiFeAS/personasbus.jpg">
 </p>
 
+ <p align="center"> 
+<img src="https://image.ibb.co/eRwmqS/primarypersonabus_01.jpg">
+</p>
+
+### Customer Journey Map
+
+Ya definido un problema específico para abordar se definió la experiencia del usuario al momento de viajar en bus 
+
+ <p align="center"> 
+<img src="https://image.ibb.co/kDFhx7/Captura_de_pantalla_2018_02_05_a_la_s_10_07_44_a_m.png">
+</p>
 
 
 ---
