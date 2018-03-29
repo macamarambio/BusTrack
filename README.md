@@ -4,6 +4,9 @@ Verifica los tiempos de llegada de tu bus, obtén alertas de retraso del servici
 
 ![alt text](https://image.ibb.co/e72g77/Captura_de_pantalla_2018_03_28_a_la_s_9_22_43_p_m.png)
 
+
+Proyecto realizado en forma colaborativa por [Macarena Marambio](https://macamarambio.github.io/)
+
 ---
 
 ## Objetivos
@@ -46,3 +49,5 @@ Identificando que existe un gran número de personas que viaja diariamente por t
 
 
 
+---
+*Proyecto desarrollado para Laboratoria por [Macarena Marambio](https://macamarambio.github.io/)*
