@@ -76,11 +76,33 @@ Estudiante: Antonia Carrasco
 
 ### Customer Journey Map
 
-Ya definido un problema específico para abordar se definió la experiencia del usuario al momento de viajar en bus 
+Ya definido un problema específico para abordar se definió la experiencia del usuario al momento de viajar en bus, y asi poder identificar frustraciones y motivaciones del usuario, además de vacíos en el servicio. 
 
  <p align="center"> 
 <img src="https://image.ibb.co/kDFhx7/Captura_de_pantalla_2018_02_05_a_la_s_10_07_44_a_m.png">
 </p>
+
+Luego de este ejercicio pudimos identificar que el hecho de que el bus llegue atrasado en reiteradas veces produce frustración y angustia en el usuario: 
+
+* Angustia por no saber por qué su bus se retrasó
+* Llegar tarde a sus compromisos
+* Que hablen mal de ella como futura profesional
+
+### Problem Statement
+
+A partir del Customer Journey Map se definieron las principales necesidades de los clientes frente a este problema:
+
+* Necesita conocer horarios exactos de llegada de los buses para organizar el poco tiempo disponible.
+* Le gustaría saber si existe retraso en la llegada de los buses para no perder tiempo esperando y avisar en su trabajo posibles atrasos.
+
+
+
+
+A partir del Customer Journey Map se definieron 4 puntos que el usuario necesita y el porqué. Reducir el tiempo que pasa en el supermercado identificando si un producto es vegano, porque demora mucho tiempo cada vez que debe ir al supermercado. Tener claridad de todos los ingredientes que se encuentran en la tabla nutricional, porque necesita saber de dónde procede lo que está comiendo. Tener claridad de los ingredientes que tiene un producto cada vez que lo compra, porque las empresas constantemente van cambiando sus ingredientes. Manejar información en cuanto a los alimentos que debe comer diariamente, porque necesita saber qué nutrientes necesita para consumirlos o suplementar.
+
+
+[Primer prototipo en Sketch e Invision](https://invis.io/MAFJZ542YEP) 
+
 
 
 ---
