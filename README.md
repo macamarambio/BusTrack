@@ -2,8 +2,10 @@
 
 Verifica los tiempos de llegada de tu bus, obtén alertas de retraso del servicio e información en ruta durante tu experiencia de viaje
 
-![alt text]()
+![alt text](https://image.ibb.co/e72g77/Captura_de_pantalla_2018_03_28_a_la_s_9_22_43_p_m.png)
+
 ---
+
 ## Objetivos
 Mejorar la experiecia actual que vive el usuario al momento de viajar en bus. 
 
@@ -31,11 +33,15 @@ Se analizó su contenido, funcionalidad y opinión de sus usuarios, evaluando pr
 
 ### Research Cuantitativo
 
-Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin de entender los motivos por los que más viaja la gente, cuáles son las cosas que más les frustran a la hora de viajar en bus. También se revisaron los principales reclamos en Sernac, en la sección transporte terrestre de pasajeros. 
+Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin de entender los motivos por los que más viaja la gente, cuáles son las cosas que más les frustran a la hora de viajar en bus. También se revisaron los principales reclamos en redes sociales y en Sernac, en la sección transporte terrestre de pasajeros. 
 
 Identificando que existe un gran número de personas que viaja diariamente por trabajo, que los reclamos más frecuentes en intenet son debido al alza de los pasajes en epocas de vacaciones o feriados, que otro reclamo que se repite bastante es el mal estado de los buses y mal trato de parte del personal de éstos. 
 
+ <p align="center"> 
+<img src="https://image.ibb.co/fCDFZn/reclamos_01.jpg">
+</p>
 
+## Definición
 
 
 
