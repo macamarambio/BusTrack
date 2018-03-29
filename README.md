@@ -46,10 +46,28 @@ Identificando que existe un gran número de personas que viaja diariamente por t
 
 ## Definición
 
-### Affiniti Map
+### Affinity Map
+
+Luego de realizar la investigacion, como ejercicio para sintentizar la inforamción y poder obtener nuevos hallazgos se realizó un brainstorming como equipo de todos los conceptos que nos parecian relevantes, ya sea de las entrevistas, encuestas, paginas de reclamos, etc. Para posteriormente agruparlos segun afinidad y similitud creando un Affinity Map
 
  <p align="center"> 
 <img src="https://image.ibb.co/jA7ZAS/bustrakaffiniti.jpg">
+</p>
+
+
+### Arquetipos
+
+Ya recopilada y sintetizada toda la información, y ya entendiendo las principales molestias de los pasajeros a la hora de viajar en bus se desarrollaron 3 User Persona, resaltando distintas dificultades que viven nuestros usuarios. 
+Este ejercicio ayudó a identificar nuevos problemas y a comprender de que manera impactan en la vida de los usuarios y en su estado de ánimo. 
+
+Turista: Adriana Almeida
+Padre de Familia: Juan Pablo Aguilar
+Estudiante: Antonia Carrasco
+
+*“Cada uno nos ayudó para poder aclarar dudas con respecto con la creación de nuestra plataforma”*
+
+ <p align="center"> 
+<img src="https://image.ibb.co/fiFeAS/personasbus.jpg">
 </p>
 
 
