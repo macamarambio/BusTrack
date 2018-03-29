@@ -46,6 +46,11 @@ Identificando que existe un gran número de personas que viaja diariamente por t
 
 ## Definición
 
+### Affiniti Map
+
+ <p align="center"> 
+<img src="https://image.ibb.co/jA7ZAS/bustrakaffiniti.jpg">
+</p>
 
 
 
