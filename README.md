@@ -20,7 +20,7 @@ Esto con el objetivo de identificar posibles problemas durante todo el proceso d
 
 #### Benchmark 
 Análisis competitivos y comparativos de los principales empresas de buses de chile y el extranjero.
-Tomando en cuenta 2 áreas, la [venta de pasajes online](https://drive.google.com/open?id=1fJSvvYUKI8YE6wkzkRARnX5idnQNvfhjk1YfYGYKl0E) y el [track del viaje](https://drive.google.com/open?id=1jD62VQwBN8dfEJD_j6CrkZ7DbMheVGNygkRcxhqMeKM)
+Tomando en cuenta 2 áreas, la [venta de pasajes online](https://drive.google.com/open?id=1fJSvvYUKI8YE6wkzkRARnX5idnQNvfhjk1YfYGYKl0E) y el [track del viaje](https://drive.google.com/open?id=1jD62VQwBN8dfEJD_j6CrkZ7DbMheVGNygkRcxhqMeKM).
 
 Se analizó su contenido, funcionalidad y opinión de sus usuarios, evaluando principalmente: si era fácil de navegar, tenía información clara, si era una plataforma web o aplicación móvil.
 
@@ -29,7 +29,14 @@ Se analizó su contenido, funcionalidad y opinión de sus usuarios, evaluando pr
 </p>
 
 
-
-
 ### Research Cuantitativo
+
+Se realizaron encuestas en grupos de viajeros y de empresas de buses, con el fin de entender los motivos por los que más viaja la gente, cuáles son las cosas que más les frustran a la hora de viajar en bus. También se revisaron los principales reclamos en Sernac, en la sección transporte terrestre de pasajeros. 
+
+Identificando que existe un gran número de personas que viaja diariamente por trabajo, que los reclamos más frecuentes en intenet son debido al alza de los pasajes en epocas de vacaciones o feriados, que otro reclamo que se repite bastante es el mal estado de los buses y mal trato de parte del personal de éstos. 
+
+
+
+
+
 
