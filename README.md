@@ -137,6 +137,9 @@ Decidimos realizar una app en vez de una web sitio mobile por 2 razones que bene
  <p align="center"> 
  <img src="https://image.ibb.co/iXROS7/Captura_de_pantalla_2018_04_01_a_la_s_8_46_48_p_m.png">
 </p>
+ <p align="center"> 
+ <img src="https://image.ibb.co/bxygEn/Captura_de_pantalla_2018_04_01_a_la_s_8_52_35_p_m.png">
+</p>
 
 
 ### Sketch, prototipo en Pop y primer testeo
