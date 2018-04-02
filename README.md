@@ -129,7 +129,8 @@ Ya con las posibles soluciones claras creamos una propuesta de valor de nuestro 
 *“Verifica los tiempos de llegada de tu bus, obtén alertas de retraso del servicio e información en ruta durante tu experiencia de viaje”*
 
 Decidimos realizar una app en vez de una web sitio mobile por 2 razones que benefician la experiencia de nuestro usuario al utilizarla.
-* La app da la posibilidad que nuestros usuarios vean en tiempo real donde esta el bus antes y durante el viaje, gracias a la geolocalización.
+
+* La app da la posibilidad que nuestros usuarios vean en tiempo real donde esta el bus antes y durante el viaje, gracias a la geolocalización
 * La app permite notificar o enviar alertas en tiempo real al usuario, cuando haya algún retraso del bus, ya sea por accidente, atochamiento u otra razón.
 
 ### Content Prototype
@@ -165,6 +166,11 @@ Luego de este último testeo notamos que aun estabamos tomando en cuenta muchas 
 <img src="https://image.ibb.co/csRPvS/User_flow.jpg">
 </p>
 
+### Prototipo y Testeo
+
+
+
+[Ver prototipo final](https://marvelapp.com/7gj565e)
 
 
 ---
