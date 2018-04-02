@@ -132,7 +132,7 @@ Decidimos realizar una app en vez de una web sitio mobile por 2 razones que bene
 * La app da la posibilidad que nuestros usuarios vean en tiempo real donde esta el bus antes y durante el viaje, gracias a la geolocalización.
 * La app permite notificar o enviar alertas en tiempo real al usuario, cuando haya algún retraso del bus, ya sea por accidente, atochamiento u otra razón.
 
-### Content Prototipe
+### Content Prototype
 
  <p align="center"> 
  <img src="https://image.ibb.co/iXROS7/Captura_de_pantalla_2018_04_01_a_la_s_8_46_48_p_m.png">
@@ -153,12 +153,13 @@ Luego del content prototipe fue más sencillo realizar los primeros sketchs
 Cada integrante del equipo realizó un sketch, y luego votamos por el que considerabamos mejor para testearlo en POP (Prototyping on Paper)
 [Ver prototipo](https://marvelapp.com/3hh8ji3)
 
+Luego del test de usabilidad notamos que el usuario no comprendía la aplicación de la misma forma que nosotras, y que el hecho que tuviera tantas funciones confundía en vez de aportar durante el viaje. 
 
-
-
-[Primer prototipo en Sketch e Invision](https://invis.io/MAFJZ542YEP)
+Iteramos y testeamos en reiterada ocasiones, para finalmente realizar el primer prototipo en Sketch e Invision, [Ver prototipo](https://invis.io/MAFJZ542YEP)
 
 ### Wireflow
+
+Luego de este último testeo notamos que aun estabamos tomando en cuenta muchas funciones y el flujo no era completamente intuitivo, por lo que realizamos un Wireflow para ordenar el flujo de aplicación.
 
  <p align="center"> 
 <img src="https://image.ibb.co/csRPvS/User_flow.jpg">
