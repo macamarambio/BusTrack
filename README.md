@@ -168,8 +168,23 @@ Luego de este último testeo notamos que aun estabamos tomando en cuenta muchas 
 
 ### Prototipo y Testeo
 
+Realizamos un test con 5 usuarios, para obtener el 85% de los problemas de usabilidad.  
+Con el objetivo de:
 
+* probar el diseño
+* Corregir el diseño en caso de ser necesario
+* Minimizar la cantidad de tiempo y pensamientos necesarios para realizar una tarea
 
+Se puso a los usuarios en el contexto de que tienen que realizar un viaje desde el terminal pajaritos, y ver cuánto falta para que su bus llegue al terminal.  
+
+Pudimos identificar los siguientes problemas:
+
+* El usuario se siente atrapado en la aplicación al no poder regresar hacia atrás al momento de ingresar el código del pasaje. 
+* Solución: Agregar botón para retroceder, para que el usuario pueda navegar con mayor facilidad. 
+
+Finalmente los usuarios han podido navegar por la página de manera rápida y fluida. Logrando el objetivo planteado. El buscador, aunque no es utilizado por la mayoría para encontrar el terminal, es catalogado como un apoyo importante. 
+
+De esta manera llegamos al prototipo final realizado en Marvel App. 
 [Ver prototipo final](https://marvelapp.com/7gj565e)
 
 
